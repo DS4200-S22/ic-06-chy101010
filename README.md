@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - Intro to JavaScript
 
-Link to GitHub Pages: `https://ds4200-s22.github.io/ic-06-chy101010/`
+Link to GitHub Pages: https://ds4200-s22.github.io/ic-06-chy101010/
 
 ## Purpose
 
